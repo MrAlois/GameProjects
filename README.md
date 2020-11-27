@@ -1,4 +1,4 @@
-# SDLPacman
+# GameProjects
 Repository of my school project using SDL library in C language.
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam faucibus mi quis velit. Etiam ligula pede, sagittis quis, interdum ultricies, scelerisque eu. Aliquam erat volutpat. Pellentesque ipsum. Maecenas lorem. Mauris dictum facilisis augue. Fusce tellus. Et harum quidem rerum facilis est et expedita distinctio. Integer vulputate sem a nibh rutrum consequat. Phasellus rhoncus. Fusce wisi. Duis bibendum, lectus ut viverra rhoncus, dolor nunc faucibus libero, eget facilisis enim ipsum id lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.
